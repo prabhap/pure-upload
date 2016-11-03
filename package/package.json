@@ -1,6 +1,6 @@
 {
-  "name": "pure-upload",
-  "version": "2.0.5",
+  "name": "pure-upload-version-2",
+  "version": "2.0.6",
   "description": "The pure upload library without dependencies",
   "author": {
     "name": "t.rut, m.horyna"
@@ -18,10 +18,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/keeema/pure-upload.git"
+    "url": "git+https://github.com/prabhap/pure-upload.git"
   },
   "bugs": {
-    "url": "https://github.com/keeema/pure-upload/issues"
+    "url": "https://github.com/prabhap/pure-upload/issues"
   },
   "keywords": [
     "pure",
